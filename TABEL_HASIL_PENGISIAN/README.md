@@ -14,7 +14,7 @@ Tabel pengujian digunakan untuk menguji setiap studi kasus dengan beberapa kombi
 
 ## 2. Aturan Kelulusan - AND
 
-| Nilai Tinggi | Aktif Organisasi | Kartu Aktif | Hasil |
+| Nilai Tinggi | Rajin | Kehadiran | Hasil |
 |---|---|---|---|
 | True | True | True | Peserta LULUS |
 | True | False | True | Peserta Tidak LULUS |
