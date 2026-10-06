@@ -37,9 +37,9 @@ Tabel pengujian digunakan untuk menguji setiap studi kasus dengan beberapa kombi
 | Pelajar | Member | Uang | Hasil |
 |---|---|---|---|
 | True | False | False | Mendapat potongan HARGA |
-| False | True | False | Tidak mendapat potongan HARGA |
-| False | False | True | Tidak mendapat potongan HARGA |
-| True | True | False | Tidak mendapat potongan HARGA |
+| False | True | False |  Mendapat potongan HARGA |
+| False | False | True |  Mendapat potongan HARGA |
+| True | True | False |  Mendapat potongan HARGA |
 | False | False | False | Tidak mendapat potongan HARGA | 
 
 ## 5. Pesta Pernikahan - OR
