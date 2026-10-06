@@ -36,6 +36,7 @@ Repository ini dibuat untuk melengkapi tugas praktikum matematika diskrit, Repos
 ## Cara Menjalankan Program
 
 Pastikan Python sudah terinstal.
+Untuk cara menginstal python dan cara-cara Selanjutnya yang lebih lengkap5 bisa di lihat di folder/proyek "TAHAPAN" yang ada di atas.2
 
 ### Windows
 
