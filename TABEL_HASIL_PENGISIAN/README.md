@@ -4,7 +4,7 @@ Tabel pengujian digunakan untuk menguji setiap studi kasus dengan beberapa kombi
 
 ## 1. Beasiswa - AND
 
-| Nilai Bagus | Rajin | Prasyarat | Hasil |
+| Nilai Bagus | Rajin | Kelengkapan Dokumen | Hasil |
 |---|---|---|---|
 | True | True | True | Mendapat BEASISWA |
 | True | False | True | Tidak Mendapat BEASISWA |
